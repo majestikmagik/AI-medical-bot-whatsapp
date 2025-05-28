@@ -28,12 +28,12 @@ pip install flask twilio openai python-dotenv pyngrok
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/djpapzin/AI-Assistant-WhatsApp-Bot.git
+git clone https://github.com/majestikmagik/AI-medical-bot-whatsapp.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd AI-Assistant-WhatsApp-Bot
+cd AI-medical-bot-whatsapp
 ```
 
 3. Obtain your Twilio SID and Auth Token:
@@ -78,11 +78,11 @@ The AI assistant will respond to the user's message via WhatsApp.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/djpapzin/AI-Assistant-WhatsApp-Bot/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Feel free to contribute for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/djpapzin/AI-Assistant-WhatsApp-Bot/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [MIT License] file for details.
 
 ## Acknowledgments
 
@@ -93,13 +93,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 If you have any questions, feel free to open an issue or contact the repository owner.
 
-- WhatsApp: [https://wa.me/+27834837699](https://wa.me/+27834837699)
-- Twitter: [@djpapzin](https://twitter.com/djpapzin)
-- Email: djpapzin@gmail.com
-- Replit: [https://replit.com/@DjPapzin/Whatsapp-ChatGPT-bot?v=1](https://replit.com/@DjPapzin/Whatsapp-ChatGPT-bot?v=1)
+- Email: amosmiller0312@gmail.com
 
 ## Future Ideas
 - Voinenote capabilities (text-to-speech) - transcribe audio from user using openai whisper speech to text and reply with text
 - Voinenote capabilities (speech-to-text) - transcribe audio from user using openai whisper speech to text and reply with audio from eleven labs.
 - Add Memory using langchain conversation buffer memory.
-
