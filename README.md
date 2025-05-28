@@ -1,8 +1,8 @@
-# AI-Assistant-WhatsApp-Bot
+# AI-medical-bot-whatsapp
 
 This repository contains a Python-based AI assistant that uses OpenAI's GPT-3.5 Turbo model to generate responses to user queries received via WhatsApp. The assistant leverages the Twilio API for WhatsApp communication and the OpenAI API for generating AI responses. It is built on the Flask framework and can be deployed on any server.
 
-![WhatsApp Bot](images/WhatsApp_Beta_23_07_2023_06_01_46.png)
+![WhatsApp Bot](images/WhatsApp_Beta_2.png)
 
 
 ## Getting Started
